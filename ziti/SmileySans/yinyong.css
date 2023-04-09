@@ -2,3 +2,15 @@
   font-family: 'SmileySans';
   src: url("https://ghproxy.com/https://raw.githubusercontent.com/Rishou04/AaCDN/main/ziti/SmileySans/SmileySans-Oblique.ttf");
 }
+@font-face {
+  font-family: 'SmileySans';
+  src: url("https://ghproxy.com/https://github.com/Rishou04/AaCDN/blob/main/ziti/SmileySans/SmileySans-Oblique.otf");
+}
+@font-face {
+  font-family: 'SmileySans';
+  src: url("https://ghproxy.com/https://github.com/Rishou04/AaCDN/blob/main/ziti/SmileySans/SmileySans-Oblique.otf.woff2");
+}
+@font-face {
+  font-family: 'SmileySans';
+  src: url("https://ghproxy.com/https://github.com/Rishou04/AaCDN/blob/main/ziti/SmileySans/SmileySans-Oblique.ttf.woff2");
+}
