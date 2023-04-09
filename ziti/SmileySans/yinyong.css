@@ -1,8 +1,8 @@
 @font-face {
-  font-family: 'SmileySans';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url('https://ghproxy.com/https://raw.githubusercontent.com/Rishou04/AaCDN/main/ziti/SmileySans/SmileySans-Oblique.ttf') format('ttf');
-  unicode-range: U+0-10FFFF
+  font-family: "SmileySans";
+  src: url("https://ghproxy.com/https://raw.githubusercontent.com/Rishou04/AaCDN/main/ziti/SmileySans/SmileySans-Oblique.ttf");
+}
+
+body {
+  font-family: "SmileySans";
 }
