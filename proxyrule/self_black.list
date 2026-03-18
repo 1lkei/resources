@@ -1,6 +1,5 @@
 # black
 
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-KEYWORD,pikpak
-DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,release-assets.githubusercontent.com
