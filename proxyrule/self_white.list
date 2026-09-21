@@ -2,11 +2,5 @@
 
 DOMAIN-SUFFIX,ilee.top
 DOMAIN-SUFFIX,edu.cn
-DOMAIN-SUFFIX,apifox.com
-DOMAIN-SUFFIX,360tres.com
-DOMAIN-SUFFIX,h3c.com
-DOMAIN-SUFFIX,pddpic.com
-DOMAIN-SUFFIX,netease.im
-DOMAIN-SUFFIX,pushplus.plus
 DOMAIN-SUFFIX,2dland.cn
-DOMAIN-SUFFIX,qzy.xyz
+IP-CIDR,120.26.141.23/32,no-resolve
