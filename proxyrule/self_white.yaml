@@ -1,0 +1,6 @@
+# white
+payload:
+  - 'DOMAIN-SUFFIX,ilee.top'
+  - 'DOMAIN-SUFFIX,edu.cn'
+  - 'DOMAIN-SUFFIX,2dland.cn'
+  - 'IP-CIDR,120.26.141.23/32,no-resolve'
